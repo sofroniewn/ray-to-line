@@ -1,0 +1,21 @@
+{
+  "name": "ray-to-line",
+  "version": "0.0.1",
+  "description": "Determines distance from a ray to a line",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "ray",
+    "line"
+  ],
+  "author": "Nicholas Sofroniew",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^2.5.0"
+  }
+}
